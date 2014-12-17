@@ -852,7 +852,7 @@
         bindMouseScrollXHandler();
         bindMouseScrollYHandler();
         bindRailClickHandler();
-        bindSelectionHandler();
+        //bindSelectionHandler();
         bindMouseWheelHandler();
 
         if (supportsTouch || supportsIePointer) {
